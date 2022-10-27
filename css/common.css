@@ -86,7 +86,7 @@ body{
 .calculator .buttons span#plus:active,
 .calculator .buttons span#equal:active
 {
-    box-shadow: 5px 5px 10px rgba(0,0,0,0.2),
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1),
     -5px -5px 10px #fff,
-    inset 5px 5px 10px rgba(0,0,0,0.2);
+    inset 5px 5px 10px rgba(0,0,0,0.1);
 }
